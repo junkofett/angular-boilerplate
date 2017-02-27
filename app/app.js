@@ -16,6 +16,7 @@
          */
         'ngAnimate',
         'ngTouch',
+        'ui.router'
 
         /*
          * Feature areas
